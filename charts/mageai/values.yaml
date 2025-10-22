@@ -112,6 +112,8 @@ serviceAccount:
 
 podAnnotations: {}
 
+DeploymentAnnotations: {}
+
 podLabels: {}
 
 podSecurityContext: {}
